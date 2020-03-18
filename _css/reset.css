@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+/* Reset */
+
+@font-face {
+     font-family: barmeno;
+     src: url('barmeno.ttf');
+}
+
+
+html, body, div, span, applet, object, iframe, caption, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, dl, dt, dd, ol, ul, li, fieldset, form, label, legend { vertical-align: baseline; font-family: barmeno, sans-serif; font-weight: inherit; font-style: inherit; font-size: 100%; outline: 0; padding: 0; margin: 0; border: 0; }
+table, tbodyt, foot, thead, tr, th, td { font-family: barmeno, sans-serif; font-weight: inherit; font-style: inherit; font-size: 100%; outline: 0; padding: 0; margin: 0; border: 0; }
+:focus { outline: 0; }
+body { background: white; line-height: 1; color: black; }
+ol, ul { list-style: none; }
+table { border-collapse: separate; border-spacing: 0; }
+caption, th, td { font-weight: normal; text-align: left; }
+blockquote:before, blockquote:after, q:before, q:after { content: ""; }
+blockquote, q { quotes: "" ""; }
+strong { font-weight:bold; }
